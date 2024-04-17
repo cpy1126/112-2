@@ -7,4 +7,5 @@
 - [作業一](陳芃屹_作業一.ipynb)
 - [作業二](陳芃屹_作業二.ipynb)
 - [作業三](陳芃屹_作業三.ipynb)
+- [作業三影片](https://www.youtube.com/watch?v=Nw5aevNT1Bg)
 # 專題連結區
