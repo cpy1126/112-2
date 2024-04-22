@@ -8,6 +8,6 @@
 - [作業二](陳芃屹_作業二.ipynb)
 - [作業三](陳芃屹_作業三.ipynb)
 - [作業三影片](https://www.youtube.com/watch?v=Nw5aevNT1Bg)
-- [作業三檔案](https://github.com/cpy1126/112-2/blob/main/movie_info.csv)
-- [作業三檔案](https://github.com/cpy1126/112-2/blob/main/movie_info.json)
+- [作業三csv檔](https://github.com/cpy1126/112-2/blob/main/movie_info.csv)
+- [作業三json檔](https://github.com/cpy1126/112-2/blob/main/movie_info.json)
 # 專題連結區
