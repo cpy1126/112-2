@@ -8,4 +8,6 @@
 - [作業二](陳芃屹_作業二.ipynb)
 - [作業三](陳芃屹_作業三.ipynb)
 - [作業三影片](https://www.youtube.com/watch?v=Nw5aevNT1Bg)
+- [作業三檔案](http://localhost:8888/edit/movie_info.json)
+- [作業三檔案](http://localhost:8888/edit/movie_info.json)
 # 專題連結區
